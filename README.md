@@ -32,3 +32,14 @@ Ceci est la page de décomposition complète derrière une épingle Pinterest pu
 ---
 
 *Orvala — on chiffre ce que les autres se contentent d'affirmer.*
+
+## La série « On a compté »
+
+Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
+
+- [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
+- [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
+- [1 748 € : le budget des vacances d'été 2026](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
+- [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
+
