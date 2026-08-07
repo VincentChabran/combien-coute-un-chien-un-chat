@@ -35,6 +35,8 @@ Ceci est la page de décomposition complète derrière une épingle Pinterest pu
 
 ## La série « On a compté »
 
+**Toute la série, avec un chiffre-titre par sujet** : [github.com/VincentChabran](https://github.com/VincentChabran)
+
 Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
 
 - [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
