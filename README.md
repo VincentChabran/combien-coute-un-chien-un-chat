@@ -25,6 +25,13 @@
 
 Ces deux totaux sont de simples sommes de chiffres publiés par ces deux baromètres — aucun chiffre n'est estimé, extrapolé ou inventé. Pas de coût "sur la vie entière", pas de multiplication par une espérance de vie : uniquement le budget annuel réel, pour comparer avant un achat.
 
+**Vérification du conflit d'intérêt (2026-08-09)** : cette série distingue systématiquement un commanditaire qui délègue la mesure à un institut tiers indépendant sur un panel généraliste (pas de conflit) d'un mesureur qui interroge sa propre clientèle payante (biais probable). Les deux sources de ce dépôt ne sont pas dans la même situation :
+
+- **Alimentation (FACCO/Odoxa)** : FACCO est le syndicat professionnel des fabricants d'aliments pour chiens et chats (35 sociétés adhérentes, 98 % du volume petfood produit en France) — donc l'organisme qui commande et publie l'étude a un intérêt direct à ce que le budget alimentation soit perçu comme élevé ou normal. L'échantillon semble être un panel généraliste (pas la clientèle des marques FACCO), mais la méthodologie détaillée du calcul de ce chiffre précis (périmètre exact : gammes premium/économiques, friandises incluses ou non) n'est pas publiée. **À lire avec cette réserve** : le chiffre vient de l'industrie qu'il décrit, même si rien n'indique un échantillon biaisé.
+- **Santé perçue (Solly Azar/OpinionWay)** : Solly Azar est un assureur santé animale, mais l'échantillon (1 040 propriétaires) est constitué par quotas (sexe, âge, CSP, agglomération, région) sur un panel OpinionWay généraliste — pas la clientèle assurée de Solly Azar. Le chiffre mesuré est la dépense vétérinaire perçue, pas le prix d'une assurance : Solly Azar n'a pas d'intérêt structurel direct à faire monter précisément ce chiffre-là. Méthodologiquement comparable au cas Ipsos/Leclerc (sujet bébé), sans réserve particulière.
+
+Sources consultées le 09/08/2026 : [facco.fr, communiqué mai 2024](https://www.facco.fr/wp-content/uploads/2024/05/barometre-facco-odoxa-2024-communique-presse.pdf), [facco.fr, chiffres 3/5](https://www.facco.fr/barometre-facco-odoxa-2024-2025-chiffres-3-5/), [groupe.sollyazar.com, communiqué 26/06/2025](https://groupe.sollyazar.com/sites/default/files/2025-07/Solly%20Azar_CP_Barom%C3%A8tre%20de%20l'assurance%20sant%C3%A9%20Chien%20Chat.pdf).
+
 ## Pourquoi ce dépôt
 
 Ceci est la page de décomposition complète derrière une épingle Pinterest publiée par [Orvala](https://www.pinterest.com/orvaladigital/) sous l'angle éditorial « on a compté » : chaque affirmation chiffrée est sourcée et vérifiable, ici même.
