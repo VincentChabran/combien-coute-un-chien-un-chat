@@ -32,6 +32,27 @@ Ces deux totaux sont de simples sommes de chiffres publiés par ces deux baromè
 
 Sources consultées le 09/08/2026 : [facco.fr, communiqué mai 2024](https://www.facco.fr/wp-content/uploads/2024/05/barometre-facco-odoxa-2024-communique-presse.pdf), [facco.fr, chiffres 3/5](https://www.facco.fr/barometre-facco-odoxa-2024-2025-chiffres-3-5/), [groupe.sollyazar.com, communiqué 26/06/2025](https://groupe.sollyazar.com/sites/default/files/2025-07/Solly%20Azar_CP_Barom%C3%A8tre%20de%20l'assurance%20sant%C3%A9%20Chien%20Chat.pdf).
 
+## Ce qui manque à ces deux totaux : l'identification, obligatoire et non-annuelle
+
+Les 783 €/an et 571 €/an ci-dessus ne comptent que des postes **récurrents** (alimentation, santé
+courante). Il existe une troisième dépense, **légalement obligatoire** et **ponctuelle** (une
+seule fois dans la vie de l'animal), qui n'entre dans aucun des deux baromètres et qu'on ajoute
+donc séparément plutôt que de fausser un total annuel avec un coût qui ne se répète pas :
+
+**L'identification par puce électronique ou tatouage est obligatoire en France pour tout chien de
+plus de 4 mois et tout chat de plus de 7 mois**, avant toute cession (vente ou don) — référence
+légale : Code rural et de la pêche maritime, articles L211-11 à L211-28. **Détenir un chien ou un
+chat non identifié né après le 1ᵉʳ janvier 2012 est passible d'une amende de 750 €.**
+
+Vérifié à la source le 2026-08-15 :
+[service-public.gouv.fr/particuliers/vosdroits/F34877](https://www.service-public.gouv.fr/particuliers/vosdroits/F34877)
+
+Ce montant de 750 € est **l'amende encourue en cas de non-conformité**, pas le prix de l'acte
+d'identification lui-même — ce dernier est fixé librement par chaque vétérinaire (donc absent
+d'une source officielle chiffrée) et n'est donc pas ajouté ici, par cohérence avec la règle de
+cette série : on ne publie que des montants sourcés à l'origine, jamais une moyenne de marché
+non vérifiable à la source.
+
 ## Pourquoi ce dépôt
 
 Ceci est la page de décomposition complète derrière une épingle Pinterest publiée par [Orvala](https://www.pinterest.com/orvaladigital/) sous l'angle éditorial « on a compté » : chaque affirmation chiffrée est sourcée et vérifiable, ici même.
