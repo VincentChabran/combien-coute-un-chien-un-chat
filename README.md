@@ -1,7 +1,3 @@
----
-image: https://vincentchabran.github.io/combien-coute-un-chien-un-chat/pin.png
----
-
 # 783 €/an pour un chien. 571 €/an pour un chat.
 
 ![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-un-chien-un-chat.pages)
